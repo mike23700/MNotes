@@ -1,4 +1,12 @@
 {
   "name": "MNotes",
-  "displayName": "MNotes"
+  "displayName": "MNotes",
+  "expo": {
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    }
+  }
 }
